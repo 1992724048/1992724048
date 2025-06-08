@@ -24,5 +24,8 @@
 > - bilibili: <a style="color: pink;" href="https://space.bilibili.com/319091647">bilibili</a>
 > - Email: 1992724048@qq.com
 #### 📡 相关链接 | Links
-> - 被2FA干掉的主账号: https://github.com/issuimo
 > - 爱发电: [前往](https://afdian.tv/a/issuimo)
+> - 旧账号: [前往](https://github.com/issuimo)
+
+> [!TIP]
+> 旧账号因2FA问题已经无法登录，原邮箱取消绑定注册了该账账户
