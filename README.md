@@ -15,9 +15,9 @@
 <hr/>
 
 #### 🧭 主页 | Home Page
-> #### [戳我戳我](https://遂沫.com/)
+> #### [前往](https://遂沫.com/)
 #### 🔗 博客 | Blog
-> #### [戳我戳我](https://issuimo.com/)
+> #### [前往](https://issuimo.com/)
 #### 📧 联系我 | Contact me
 > - QQ: 1992724048
 > - Telegram: @ISSUIMO
