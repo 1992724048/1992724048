@@ -11,7 +11,7 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
                     </svg>
-                    9 Languages
+                    8 Languages
                 </h2>
             </section>
             <section class="column">
@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="436.83615929020266" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="436.83615929020266" y="0" width="20.481745861263654" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="457.31790515146633" y="0" width="1.5153165331965175" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="458.8332216846628" y="0" width="0.8442918262784667" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="459.6775135109413" y="0" width="0.14366988900703503" height="8" fill="#DA3434"/>
-                    <rect mask="url(#languages-bar)" x="459.8211833999483" y="0" width="0.07414722812487538" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="459.8953306280732" y="0" width="0.06166089656954294" height="8" fill="#C1F12E"/>
-                    <rect mask="url(#languages-bar)" x="459.9569915246428" y="0" width="0.043008475357256194" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="436.8641215172769" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="436.8641215172769" y="0" width="20.4830569139695" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="457.3471784312464" y="0" width="1.515413529802887" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="458.86259196104925" y="0" width="0.8443458700641314" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="459.7069378311134" y="0" width="0.143679085429938" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="459.85061691654334" y="0" width="0.07415197434742508" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="459.9247688908908" y="0" width="0.06166484353216224" height="8" fill="#C1F12E"/>
+                    <rect mask="url(#languages-bar)" x="459.986433734423" y="0" width="0.013566265577075694" height="8" fill="#dd1100"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -41,7 +41,7 @@
                             </div>
                             <small>
                                 <div>2.83 MB</div>
-                                <div>94.96%</div>
+                                <div>94.97%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -121,13 +121,13 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#384d54" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#dd1100" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Dockerfile
+                                Wolfram Language
                             </div>
                             <small>
-                                <div>279 bytes</div>
-                                <div>0.01%</div>
+                                <div>88 bytes</div>
+                                <div>0%</div>
                             </small>
                         </div>
                     </section>
