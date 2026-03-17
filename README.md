@@ -20,6 +20,7 @@
 > #### [前往](https://issuimo.com/)
 #### 📧 联系我 | Contact me
 > - QQ: 1992724048
+> - QQ群: 112986834
 > - Telegram: @ISSUIMO
 > - bilibili: <a style="color: pink;" href="https://space.bilibili.com/319091647">bilibili</a>
 > - Email: 1992724048@qq.com
