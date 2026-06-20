@@ -83,23 +83,21 @@
 
 <table>
   <tr>
-    <td width="50%" align="center">
-      <b>🧭 主页 | Home Page</b><br/>
-      <a href="https://遂沫.com/">遂沫.com</a>
-      <br/><br/>
-      <b>🔗 博客 | Blog</b><br/>
-      <a href="https://issuimo.com/">issuimo.com</a>
+    <td width="33%" style="border-left: 3px solid #555; padding: 0 8px 0 16px;">
+      <p><b>🧭 主页 | Home Page</b><br><a href="https://遂沫.com/">遂沫.com</a></p>
+      <p><b>🔗 博客 | Blog</b><br><a href="https://issuimo.com/">issuimo.com</a></p>
     </td>
-    <td width="50%">
-      <b>📧 联系我 | Contact me</b><br/>
-      <b>QQ:</b> 1992724048<br/>
-      <b>QQ群:</b> 112986834<br/>
-      <b>Telegram:</b> <a href="https://t.me/ISSUIMO">@ISSUIMO</a><br/>
-      <b>Bilibili:</b> <a href="https://space.bilibili.com/319091647">遂沫</a><br/>
-      <b>Email:</b> <a href="mailto:1992724048@qq.com">1992724048@qq.com</a>
+    <td width="33%" style="border-left: 3px solid #555; padding: 0 8px 0 16px;">
+      <p><b>📧 联系我 | Contact me</b><br>
+      <b>QQ:</b> 1992724048<br>
+      <b>QQ群:</b> 112986834<br>
+      <b>Bilibili:</b> <a href="https://space.bilibili.com/319091647">遂沫</a><br>
+      <b>Email:</b> <a href="mailto:1992724048@qq.com">1992724048@qq.com</a></p>
+    </td>
+    <td width="33%" style="border-left: 3px solid #555; padding: 0 8px 0 16px;">
+      <p><b>📡 相关链接</b><br>
+      <a href="https://github.com/issuimo">旧账号</a><br>
+      因 2FA 已无法登录</p>
     </td>
   </tr>
 </table>
-
-#### 📡 相关链接
-> **旧账号:** [issuimo](https://github.com/issuimo) — 因 2FA 问题已无法登录
