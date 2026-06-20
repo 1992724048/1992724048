@@ -47,6 +47,8 @@
 ![](https://img.shields.io/badge/NeoForge-000000?style=flat-square&logo=minecraft&logoColor=white)
 ![](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 
 **🛠 工具与平台 | Tools & Platforms**
 
@@ -71,6 +73,8 @@
 ![](https://img.shields.io/badge/x64dbg-41A34F?style=flat-square&logoColor=white)
 ![](https://img.shields.io/badge/Xshell-005F99?style=flat-square&logoColor=white)
 ![](https://img.shields.io/badge/UPX-000000?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
+![](https://img.shields.io/badge/NuGet-004880?style=flat-square&logo=nuget&logoColor=white)
 ![](https://img.shields.io/badge/Altium_Designer-A5915F?style=flat-square&logoColor=white)
 ![](https://img.shields.io/badge/SOLIDWORKS-FF0000?style=flat-square&logo=dassaultsystemes&logoColor=white)
 
