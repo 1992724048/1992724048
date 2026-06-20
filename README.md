@@ -77,22 +77,29 @@
 ![](https://img.shields.io/badge/NuGet-004880?style=flat-square&logo=nuget&logoColor=white)
 ![](https://img.shields.io/badge/Altium_Designer-A5915F?style=flat-square&logoColor=white)
 ![](https://img.shields.io/badge/SOLIDWORKS-FF0000?style=flat-square&logo=dassaultsystemes&logoColor=white)
+![](https://img.shields.io/badge/Draw.io-F08705?style=flat-square&logo=diagramsdotnet&logoColor=white)
 
 ---
 
-#### 🧭 主页 | Home Page
-> #### [前往](https://遂沫.com/)
-#### 🔗 博客 | Blog
-> #### [前往](https://issuimo.com/)
-#### 📧 联系我 | Contact me
-> - **QQ:** 1992724048
-> - **QQ群:** 112986834
-> - **Telegram:** [@ISSUIMO](https://t.me/ISSUIMO)
-> - **Bilibili:** [遂沫](https://space.bilibili.com/319091647)
-> - **Email:** [1992724048@qq.com](mailto:1992724048@qq.com)
-#### 📡 相关链接 | Links
-> - **爱发电:** [赞助](https://afdian.tv/a/issuimo)
-> - **旧账号:** [issuimo](https://github.com/issuimo)
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <b>🧭 主页 | Home Page</b><br/>
+      <a href="https://遂沫.com/">遂沫.com</a>
+      <br/><br/>
+      <b>🔗 博客 | Blog</b><br/>
+      <a href="https://issuimo.com/">issuimo.com</a>
+    </td>
+    <td width="50%">
+      <b>📧 联系我 | Contact me</b><br/>
+      <b>QQ:</b> 1992724048<br/>
+      <b>QQ群:</b> 112986834<br/>
+      <b>Telegram:</b> <a href="https://t.me/ISSUIMO">@ISSUIMO</a><br/>
+      <b>Bilibili:</b> <a href="https://space.bilibili.com/319091647">遂沫</a><br/>
+      <b>Email:</b> <a href="mailto:1992724048@qq.com">1992724048@qq.com</a>
+    </td>
+  </tr>
+</table>
 
-> [!TIP]
-> 旧账号因 2FA 问题已无法登录，原邮箱取消绑定注册了该账号
+#### 📡 相关链接
+> **旧账号:** [issuimo](https://github.com/issuimo) — 因 2FA 问题已无法登录
