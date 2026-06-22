@@ -78,6 +78,10 @@
 ![](https://img.shields.io/badge/Altium_Designer-A5915F?style=flat-square&logoColor=white)
 ![](https://img.shields.io/badge/SOLIDWORKS-FF0000?style=flat-square&logo=dassaultsystemes&logoColor=white)
 ![](https://img.shields.io/badge/Draw.io-F08705?style=flat-square&logo=diagramsdotnet&logoColor=white)
+![](https://img.shields.io/badge/Word-2B579A?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Excel-217346?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logoColor=white)
 
 ---
 
