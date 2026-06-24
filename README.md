@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="https://github.com/1992724048/1992724048/blob/output/github-contribution-grid-snake.svg" />
-  <br/><br/>
   <table>
     <tr>
       <td rowspan=2>
