@@ -2,10 +2,10 @@
 name: Metrics
 on:
   # Schedule updates (each hour)
-  schedule: [{cron: "0 * * * *"}]
+  schedule: [{cron: "0 0 * * *"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
-  push: {branches: ["master", "main"]}
+  push: {branches: ["master", "main", "dev"]}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -34,7 +34,6 @@ jobs:
           plugin_lines: yes
           plugin_lines_history_limit: 3
           plugin_lines_repositories_limit: 15
-          plugin_lines_sections: base, header, activity, community, repositories, metadata
       - name: Full-year calendar
         uses: lowlighter/metrics@latest
         with:
