@@ -16,4 +16,4 @@
   </table>
 </div>
 
-[关于我](https://issuimo.com/about/) | [博客](https://issuimo.com/) | [BiliBili](https://space.bilibili.com/319091647) | [QQ群](https://qm.qq.com/q/oU7hotNM52) | [X(twitter)](https://twitter.com/issuimo)
+[关于我](https://issuimo.com/about/) | [博客](https://issuimo.com/) | [BiliBili](https://space.bilibili.com/319091647) | [QQ群](https://qm.qq.com/q/oU7hotNM52) | [X(twitter)](https://twitter.com/issuimo) | [Telegram](https://t.me/ISSUIMO)
