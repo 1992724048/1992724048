@@ -16,5 +16,5 @@
   </table>
 </div>
 
-[关于我(About Me)](https://issuimo.com/about/) | [博客(Blog)](https://issuimo.com/) | [BiliBili](https://space.bilibili.com/319091647) | [QQ群](https://qm.qq.com/q/oU7hotNM52) | [X(twitter)](https://twitter.com/issuimo) | [Telegram](https://t.me/ISSUIMO) | [Discord](https://ptb.discord.com/users/1012622104111362108) | [邮箱](mailto:1992724048@qq.com) |
+[关于我(About Me)](https://issuimo.com/about/) | [博客(Blog)](https://issuimo.com/) | [BiliBili](https://space.bilibili.com/319091647) | [QQ群](https://qm.qq.com/q/oU7hotNM52) | [X(twitter)](https://twitter.com/issuimo) | [Telegram](https://t.me/ISSUIMO) | [Discord](https://ptb.discord.com/users/1012622104111362108) | [邮箱](mailto:1992724048@qq.com)
 > 学的多不一定赢，做出优秀成果才是成功
