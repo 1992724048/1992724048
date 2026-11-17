@@ -17,4 +17,4 @@
 </div>
 
 [关于我(About Me)](https://issuimo.com/about/) | [博客(Blog)](https://issuimo.com/) | [BiliBili](https://space.bilibili.com/319091647) | [QQ群](https://qm.qq.com/q/oU7hotNM52) | [X(twitter)](https://twitter.com/issuimo) | [Telegram](https://t.me/ISSUIMO) | [Discord](https://ptb.discord.com/users/1012622104111362108) | [邮箱](mailto:1992724048@qq.com)
-> 本人讨厌以下特质人群： “二极管”、“串子”、“嘉豪”、“时尚单品抑郁症”、“缺爱逼”、“小学生”、“AI迷信者”、“懂哥”、“键政”、“XXX宗教”、“宏大叙事”、“官腔”、“说大话”、“信竞生”、“低认知”、“伪人”、“扣字”、“XXX崇拜者”；
+> 本人讨厌以下特质人群： “二极管”、“串子”、“嘉豪”、“时尚单品抑郁症”、“缺爱逼”、“小学生”、“AI迷信者”、“懂哥”、“键政”、“XXX宗教”、“宏大叙事”、“官腔”、“说大话”、“信竞生”、“低认知”、“伪人”、“扣字”、“XXX崇拜者”、“魔怔人”；
